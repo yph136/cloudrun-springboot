@@ -1075,3 +1075,4 @@ public class CustomHealthIndicator implements HealthIndicator {
     <artifactId>spring-boot-starter-data-redis</artifactId>
 </dependency>
 ```
+add
